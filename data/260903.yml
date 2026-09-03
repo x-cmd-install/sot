@@ -1,0 +1,58 @@
+about:
+  description: Command-line System Obervation Tool
+  license: MIT
+  homepage: https://pypi.org/project/sot/
+  head: 759f828
+  archived: false
+  latestVersion: v6.1.0
+  collectedAt: 2026-09-03T04:47:53Z
+timeline:
+  created: 2024-11-21
+  lastCommit: 2026-08-06
+  lastRelease: 2026-08-06
+popularity:
+  star: 58
+  watcher: 2
+  fork: 3
+  release: 18
+  contributor: 4
+  pullRequest: 1
+  issue: 18
+language:
+  Python: 319246
+  Just: 11507
+  Shell: 6202
+totalLine: 336955
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 5
+  last360d:
+    since: 2025-09-08
+    release: 7
+    mergedPR: 21
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 50
