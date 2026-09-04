@@ -7,7 +7,7 @@ about:
   head: 759f828
   archived: false
   latestVersion: v6.1.0
-  collectedAt: 2026-09-04T19:48:19Z
+  collectedAt: 2026-09-04T20:58:41Z
 timeline:
   created: 2024-11-21
   lastCommit: 2026-08-06
@@ -82,5 +82,38 @@ total:
   openIssue: 6
   commit: 115
 ---
+path: /home/runner/.x-repo/github.com/anistark/sot
+collectedAt: 2026-09-04T20:58:42Z
+loc:
+  Python:
+    code: 7570
+    comments: 365
+    blanks: 1637
+    files: 46
+  Sh:
+    code: 190
+    comments: 19
+    blanks: 32
+    files: 1
+  Toml:
+    code: 71
+    comments: 1
+    blanks: 11
+    files: 1
+  Ini:
+    code: 10
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1100
+    blanks: 404
+    files: 4
+total:
+  code: 7864
+  comments: 1496
+  blanks: 2093
+  files: 53
 ---
 
