@@ -4,7 +4,7 @@
 
 Command-line System Obervation Tool
 
-![sot](https://repo.x-cmd.io/sot.svg)
+![sot](https://repo.x-cmd.io/sot.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,15 @@ x install sot
 - **最新版本**: `v6.1.0` (2026-08-06)
 - **最近提交**: 2026-08-06
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-08-06T12:46:35Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [sot-v6.1.0-aarch64.rpm](https://github.com/anistark/sot/releases/download/v6.1.0/sot-v6.1.0-aarch64.rpm) | 9.8 MiB | `other` |
+| [sot-v6.1.0-amd64.deb](https://github.com/anistark/sot/releases/download/v6.1.0/sot-v6.1.0-amd64.deb) | 9.8 MiB | `other` |
+| [sot-v6.1.0-arm64.deb](https://github.com/anistark/sot/releases/download/v6.1.0/sot-v6.1.0-arm64.deb) | 9.8 MiB | `other` |
+| [sot-v6.1.0-x86_64.rpm](https://github.com/anistark/sot/releases/download/v6.1.0/sot-v6.1.0-x86_64.rpm) | 9.8 MiB | `other` |
 
 ## 流行度
 
@@ -62,4 +70,4 @@ sot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:37:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:14:38Z._
