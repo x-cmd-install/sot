@@ -1,24 +1,65 @@
 # sot
 
+[中文版本](./README.cn.md)
+
 Command-line System Obervation Tool
 
-- **Upstream**: <https://github.com/anistark/sot>
-- **Homepage**: <https://pypi.org/project/sot/>
-- **Latest release**: `v6.1.0` (2026-08-06)
-- **Last commit**: 2026-08-06
-- **License**: MIT
-- **Stars**: 59 · **Forks**: 3 · **Open issues**: 18 · **Contributors**: 4
+![sot](https://repo.x-cmd.io/sot.svg)
 
-## Installation
+## Install
 
 ```sh
 x install sot
 ```
 
-See <https://x-cmd.com/install/sot> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/anistark/sot>
+- **Homepage**: <https://pypi.org/project/sot/>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:33:00Z._
+- **Latest**: `v6.1.0` (2026-08-06)
+- **Last commit**: 2026-08-06
+- **Assets in release**: 4
+- **Published**: 2026-08-06T12:46:35Z
+
+## Popularity
+
+- **Stars**: 59 · **Forks**: 3 · **Open issues**: 18 · **Contributors**: 4
+
+## Totals (cumulative)
+
+- **Releases**: 18 · **Merged PRs**: 29 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 6 · **Commits**: 115
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 1 | 1 | 0 | 0 | 0 | 2 |
+| 360d | 2025-09-15 | 7 | 21 | 0 | 4 | 0 | 50 |
+
+## Code size
+
+Total: **7,841** lines of code across **53** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 7,570 | 365 | 1,637 | 46 |
+| Sh | 190 | 19 | 32 | 1 |
+| Toml | 71 | 1 | 11 | 1 |
+| Ini | 10 | 0 | 1 | 1 |
+| Markdown | 0 | 1,100 | 404 | 4 |
+
+## Improve this data
+
+Install metadata for sot lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sot` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sot.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:37:09Z._
