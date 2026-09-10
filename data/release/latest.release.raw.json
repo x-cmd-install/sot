@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10242448,
       "digest": "sha256:a57e221bb3f11ff4d7f7f89490e3ec6fda856b0e261300c6428ece60e20f90f9",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-06T12:47:24Z",
       "updated_at": "2026-08-06T12:47:25Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v6.1.0/sot-v6.1.0-amd64.deb"
