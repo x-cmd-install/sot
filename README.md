@@ -48,12 +48,12 @@ Total: **7,841** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 1 | 1 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-17 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-19 | 1 | 2 | 0 | 0 | 0 | 5 |
-| 360d | 2025-09-20 | 7 | 21 | 0 | 4 | 0 | 50 |
-| last720d | 2024-09-25 | 18 | 29 | 0 | 12 | 6 | 115 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 1 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-18 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-20 | 1 | 2 | 0 | 0 | 0 | 5 |
+| 360d | 2025-09-21 | 7 | 21 | 0 | 4 | 0 | 50 |
+| last720d | 2024-09-26 | 18 | 29 | 0 | 12 | 6 | 115 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sot lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:47:36Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:53:19Z._
