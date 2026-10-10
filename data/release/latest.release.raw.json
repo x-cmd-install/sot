@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10329756,
       "digest": "sha256:97c6a6c1c2a09c7da8f5054e6033b57b25fd5d3b6130ee6b051ed9ab2e2e2193",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-07T05:16:53Z",
       "updated_at": "2026-10-07T05:16:54Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-amd64.deb"
