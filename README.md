@@ -33,7 +33,7 @@ Total: **10,234** lines of code across **86** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v6.3.0` (2026-10-07)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-20
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **10,234** lines of code across **86** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 34 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 7 · **Commits**: 123
+- **Releases**: 19 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 7 · **Commits**: 124
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 5 | 0 | 0 | 1 | 6 |
-| last60d | 2026-08-21 | 1 | 5 | 0 | 0 | 1 | 8 |
-| 90d | 2026-07-22 | 2 | 6 | 0 | 0 | 1 | 10 |
-| last180d | 2026-04-23 | 2 | 7 | 0 | 0 | 1 | 13 |
-| 360d | 2025-10-25 | 8 | 26 | 0 | 4 | 1 | 58 |
-| last720d | 2024-10-30 | 19 | 34 | 0 | 12 | 7 | 123 |
+| 30d | 2026-09-21 | 1 | 6 | 0 | 0 | 1 | 7 |
+| last60d | 2026-08-22 | 1 | 6 | 0 | 0 | 1 | 9 |
+| 90d | 2026-07-23 | 2 | 7 | 0 | 0 | 1 | 11 |
+| last180d | 2026-04-24 | 2 | 8 | 0 | 0 | 1 | 14 |
+| 360d | 2025-10-26 | 8 | 27 | 0 | 4 | 1 | 59 |
+| last720d | 2024-10-31 | 19 | 35 | 0 | 12 | 7 | 124 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for sot lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:47:14Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:38:00Z._
