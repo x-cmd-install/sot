@@ -14,15 +14,15 @@ x install sot
 
 ## Code insight
 
-Total: **10,234** lines of code across **86** files in the top 5 languages.
+Total: **10,643** lines of code across **88** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 9,962 | 336 | 2,218 | 79 |
+| Python | 10,371 | 342 | 2,314 | 81 |
 | Sh | 190 | 19 | 32 | 1 |
 | Toml | 72 | 1 | 11 | 1 |
 | Ini | 10 | 0 | 1 | 1 |
-| Markdown | 0 | 1,171 | 426 | 4 |
+| Markdown | 0 | 1,188 | 435 | 4 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **10,234** lines of code across **86** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v6.3.0` (2026-10-07)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-27
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **10,234** lines of code across **86** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 35 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 7 · **Commits**: 124
+- **Releases**: 19 · **Merged PRs**: 36 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 7 · **Commits**: 127
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 6 | 1 | 0 | 1 | 7 |
-| last60d | 2026-08-28 | 1 | 6 | 1 | 0 | 1 | 9 |
-| 90d | 2026-07-29 | 2 | 7 | 1 | 0 | 1 | 11 |
-| last180d | 2026-04-30 | 2 | 8 | 1 | 0 | 1 | 14 |
-| 360d | 2025-11-01 | 8 | 27 | 1 | 4 | 1 | 59 |
-| last720d | 2024-11-06 | 19 | 35 | 1 | 12 | 7 | 124 |
+| 30d | 2026-09-28 | 1 | 7 | 1 | 0 | 1 | 10 |
+| last60d | 2026-08-29 | 1 | 7 | 1 | 0 | 1 | 12 |
+| 90d | 2026-07-30 | 2 | 8 | 1 | 0 | 1 | 14 |
+| last180d | 2026-05-01 | 2 | 9 | 1 | 0 | 1 | 17 |
+| 360d | 2025-11-02 | 8 | 28 | 1 | 4 | 1 | 62 |
+| last720d | 2024-11-07 | 19 | 36 | 1 | 12 | 7 | 127 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for sot lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:55:36Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:33:59Z._
