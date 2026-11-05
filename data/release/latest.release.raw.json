@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10393845,
       "digest": "sha256:519c4f9e48c157d7896cb04e2268232dfb0075def4438f94caf0c47f8a16bb6f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-07T05:16:43Z",
       "updated_at": "2026-10-07T05:16:44Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-aarch64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10329756,
       "digest": "sha256:97c6a6c1c2a09c7da8f5054e6033b57b25fd5d3b6130ee6b051ed9ab2e2e2193",
-      "download_count": 29,
+      "download_count": 31,
       "created_at": "2026-10-07T05:16:53Z",
       "updated_at": "2026-10-07T05:16:54Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-amd64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10327656,
       "digest": "sha256:d489b67f5c9f7ac87296a7efbe1faa8f5183f4f82d097be6fa5405aeeeb8504c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-07T05:16:43Z",
       "updated_at": "2026-10-07T05:16:45Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10394006,
       "digest": "sha256:331e04da6ff9c4402ddb0003e0fc45e6c9a6899ea582901446f23fe3e439d5fa",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-07T05:16:47Z",
       "updated_at": "2026-10-07T05:16:47Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-x86_64.rpm"
