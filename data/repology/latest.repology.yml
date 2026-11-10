@@ -2,8 +2,8 @@
   srcname: sot
   binname: sot
   visiblename: sot
-  version: 6.3.0
-  origversion: 6.3.0-1
+  version: 7.0.0
+  origversion: 7.0.0-1
   status: unique
   summary: Command-line System Obervation Tool
   maintainers:
