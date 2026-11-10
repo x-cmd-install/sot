@@ -14,26 +14,26 @@ x install sot
 
 ## Code insight
 
-Total: **14,384** lines of code across **101** files in the top 5 languages.
+Total: **21,140** lines of code across **122** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 13,922 | 385 | 3,218 | 96 |
+| Python | 14,016 | 387 | 3,243 | 97 |
+| Json | 4,551 | 0 | 0 | 8 |
+| TypeScript | 1,276 | 121 | 148 | 15 |
+| Css | 835 | 19 | 37 | 1 |
 | Sh | 190 | 19 | 32 | 1 |
-| Svg | 190 | 0 | 0 | 2 |
-| Toml | 72 | 1 | 11 | 1 |
-| Ini | 10 | 0 | 1 | 1 |
 
 ## Source
 
 - **Upstream**: <https://github.com/anistark/sot>
-- **Homepage**: <https://pypi.org/project/sot/>
+- **Homepage**: <https://anistark.github.io/sot/>
 - **License**: MIT
 
 ## Release
 
-- **Latest**: `v6.3.0` (2026-10-07)
-- **Last commit**: 2026-11-06
+- **Latest**: `v7.0.0` (2026-11-09)
+- **Last commit**: 2026-11-10
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,29 +42,29 @@ Total: **14,384** lines of code across **101** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 39 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 7 · **Commits**: 134
+- **Releases**: 20 · **Merged PRs**: 40 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 7 · **Commits**: 140
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 7 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-10 | 1 | 10 | 0 | 0 | 1 | 19 |
-| 90d | 2026-08-11 | 1 | 10 | 0 | 0 | 1 | 19 |
-| last180d | 2026-05-13 | 2 | 12 | 0 | 0 | 1 | 24 |
-| 360d | 2025-11-14 | 8 | 31 | 0 | 4 | 1 | 69 |
-| last720d | 2024-11-19 | 19 | 39 | 0 | 12 | 7 | 134 |
+| 30d | 2026-10-11 | 1 | 6 | 0 | 0 | 0 | 17 |
+| last60d | 2026-09-11 | 2 | 11 | 0 | 0 | 1 | 25 |
+| 90d | 2026-08-12 | 2 | 11 | 0 | 0 | 1 | 25 |
+| last180d | 2026-05-14 | 3 | 13 | 0 | 0 | 1 | 30 |
+| 360d | 2025-11-15 | 9 | 32 | 0 | 4 | 1 | 75 |
+| last720d | 2024-11-20 | 20 | 40 | 0 | 12 | 7 | 140 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [sot-6.3.0-py3-none-any.whl](https://github.com/anistark/sot/releases/download/v6.3.0/sot-6.3.0-py3-none-any.whl) | 90.4 KiB | `other` |
-| [sot-6.3.0.tar.gz](https://github.com/anistark/sot/releases/download/v6.3.0/sot-6.3.0.tar.gz) | 239.2 KiB | `native/unknown` |
-| [sot-v6.3.0-aarch64.rpm](https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-aarch64.rpm) | 9.9 MiB | `other` |
-| [sot-v6.3.0-amd64.deb](https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-amd64.deb) | 9.9 MiB | `other` |
-| [sot-v6.3.0-arm64.deb](https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-arm64.deb) | 9.8 MiB | `other` |
-| [sot-v6.3.0-x86_64.rpm](https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-x86_64.rpm) | 9.9 MiB | `other` |
+| [sot-7.0.0-py3-none-any.whl](https://github.com/anistark/sot/releases/download/v7.0.0/sot-7.0.0-py3-none-any.whl) | 143.9 KiB | `other` |
+| [sot-7.0.0.tar.gz](https://github.com/anistark/sot/releases/download/v7.0.0/sot-7.0.0.tar.gz) | 431.3 KiB | `native/unknown` |
+| [sot-v7.0.0-aarch64.rpm](https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-aarch64.rpm) | 10.2 MiB | `other` |
+| [sot-v7.0.0-amd64.deb](https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-amd64.deb) | 10.2 MiB | `other` |
+| [sot-v7.0.0-arm64.deb](https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-arm64.deb) | 10.2 MiB | `other` |
+| [sot-v7.0.0-x86_64.rpm](https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-x86_64.rpm) | 10.2 MiB | `other` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for sot lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:09:18Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:08:46Z._

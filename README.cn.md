@@ -14,26 +14,26 @@ x install sot
 
 ## 代码洞察
 
-合计: **14,384** 行代码（覆盖前 5 种语言、共 **101** 个文件）。
+合计: **21,140** 行代码（覆盖前 5 种语言、共 **122** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 13,922 | 385 | 3,218 | 96 |
+| Python | 14,016 | 387 | 3,243 | 97 |
+| Json | 4,551 | 0 | 0 | 8 |
+| TypeScript | 1,276 | 121 | 148 | 15 |
+| Css | 835 | 19 | 37 | 1 |
 | Sh | 190 | 19 | 32 | 1 |
-| Svg | 190 | 0 | 0 | 2 |
-| Toml | 72 | 1 | 11 | 1 |
-| Ini | 10 | 0 | 1 | 1 |
 
 ## 源代码
 
 - **上游仓库**: <https://github.com/anistark/sot>
-- **官网**: <https://pypi.org/project/sot/>
+- **官网**: <https://anistark.github.io/sot/>
 - **许可证**: MIT
 
 ## 发布
 
-- **最新版本**: `v6.3.0` (2026-10-07)
-- **最近提交**: 2026-11-06
+- **最新版本**: `v7.0.0` (2026-11-09)
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -42,29 +42,29 @@ x install sot
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 39 · **开放 PR**: 0 · **已关闭 issue**: 12 · **开放 issue**: 7 · **提交数**: 134
+- **发布数**: 20 · **已合并 PR**: 40 · **开放 PR**: 0 · **已关闭 issue**: 12 · **开放 issue**: 7 · **提交数**: 140
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 7 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-10 | 1 | 10 | 0 | 0 | 1 | 19 |
-| 90d | 2026-08-11 | 1 | 10 | 0 | 0 | 1 | 19 |
-| last180d | 2026-05-13 | 2 | 12 | 0 | 0 | 1 | 24 |
-| 360d | 2025-11-14 | 8 | 31 | 0 | 4 | 1 | 69 |
-| last720d | 2024-11-19 | 19 | 39 | 0 | 12 | 7 | 134 |
+| 30d | 2026-10-11 | 1 | 6 | 0 | 0 | 0 | 17 |
+| last60d | 2026-09-11 | 2 | 11 | 0 | 0 | 1 | 25 |
+| 90d | 2026-08-12 | 2 | 11 | 0 | 0 | 1 | 25 |
+| last180d | 2026-05-14 | 3 | 13 | 0 | 0 | 1 | 30 |
+| 360d | 2025-11-15 | 9 | 32 | 0 | 4 | 1 | 75 |
+| last720d | 2024-11-20 | 20 | 40 | 0 | 12 | 7 | 140 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [sot-6.3.0-py3-none-any.whl](https://github.com/anistark/sot/releases/download/v6.3.0/sot-6.3.0-py3-none-any.whl) | 90.4 KiB | `other` |
-| [sot-6.3.0.tar.gz](https://github.com/anistark/sot/releases/download/v6.3.0/sot-6.3.0.tar.gz) | 239.2 KiB | `native/unknown` |
-| [sot-v6.3.0-aarch64.rpm](https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-aarch64.rpm) | 9.9 MiB | `other` |
-| [sot-v6.3.0-amd64.deb](https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-amd64.deb) | 9.9 MiB | `other` |
-| [sot-v6.3.0-arm64.deb](https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-arm64.deb) | 9.8 MiB | `other` |
-| [sot-v6.3.0-x86_64.rpm](https://github.com/anistark/sot/releases/download/v6.3.0/sot-v6.3.0-x86_64.rpm) | 9.9 MiB | `other` |
+| [sot-7.0.0-py3-none-any.whl](https://github.com/anistark/sot/releases/download/v7.0.0/sot-7.0.0-py3-none-any.whl) | 143.9 KiB | `other` |
+| [sot-7.0.0.tar.gz](https://github.com/anistark/sot/releases/download/v7.0.0/sot-7.0.0.tar.gz) | 431.3 KiB | `native/unknown` |
+| [sot-v7.0.0-aarch64.rpm](https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-aarch64.rpm) | 10.2 MiB | `other` |
+| [sot-v7.0.0-amd64.deb](https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-amd64.deb) | 10.2 MiB | `other` |
+| [sot-v7.0.0-arm64.deb](https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-arm64.deb) | 10.2 MiB | `other` |
+| [sot-v7.0.0-x86_64.rpm](https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-x86_64.rpm) | 10.2 MiB | `other` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ sot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:09:18Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:08:47Z._
