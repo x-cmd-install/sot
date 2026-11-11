@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 441644,
       "digest": "sha256:e22ad6a4aafcfabb5d7c4b92fdedd9bd458ebafdd730c1fa0fa4c43cc401dcd2",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-09T09:24:54Z",
       "updated_at": "2026-11-09T09:24:54Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v7.0.0/sot-7.0.0.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10678288,
       "digest": "sha256:a63fc6c46862a1faf13aba3999c89c47675fb6a6e4a10596155f99e9f1ec1772",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-09T09:25:32Z",
       "updated_at": "2026-11-09T09:25:33Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-amd64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10741227,
       "digest": "sha256:3233e75cb01c264859bc1655c01c0ded0508a6d4c613c6e586d78bfd9a0c5732",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-09T09:25:39Z",
       "updated_at": "2026-11-09T09:25:40Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-x86_64.rpm"
