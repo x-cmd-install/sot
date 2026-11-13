@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10741227,
       "digest": "sha256:3233e75cb01c264859bc1655c01c0ded0508a6d4c613c6e586d78bfd9a0c5732",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-09T09:25:39Z",
       "updated_at": "2026-11-09T09:25:40Z",
       "browser_download_url": "https://github.com/anistark/sot/releases/download/v7.0.0/sot-v7.0.0-x86_64.rpm"
